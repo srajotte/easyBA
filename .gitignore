@@ -1,0 +1,8 @@
+/VisualStudio/*.suo
+/VisualStudio/*.sdf
+/VisualStudio/*.opensdf
+/VisualStudio/Debug
+/VisualStudio/*.user
+/VisualStudio/Release
+/VisualStudio/x64
+/VisualStudio/.vs
